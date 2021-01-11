@@ -39,17 +39,17 @@ echo
 figlet "HALLO BRO"
 echo
 echo
-echo $pu "●❯────────────────❮●$cy"MRKALIT09"❯────────────────❮●"
+echo $pu "●❯────────────────❮●$cy"MR GEMBOR"❯────────────────❮●"
 sleep 2
-echo $cy"             [•]AUTHOR SCRIP :MR.KALIT09"
+echo $cy"             [•]AUTHOR SCRIP :MR.GEMBOR"
 sleep 2
-echo $cy "            [•]WHATSAPP: 0822-7780-4293"
+echo $cy "            [•]WHATSAPP: +62 838-1609-9745"
 sleep 2
-echo $cy "            [•] MEDAN CYBER INDONESIA"
+echo $cy "            [•] CYBER PURBALINGGA DARKNET"
 sleep 2
-echo $cy"      [•]GITHUB ME :https://github.com/MRKALIT09"
+echo $cy"      [•]GITHUB ME :https://github.com/MR GEMBOR"
 sleep 2
-echo $pu "●❯────────────────❮●$cyMR KALIT09●❯────────────────❮●"
+echo $pu "●❯────────────────❮●$cyMR GEMBOR●❯────────────────❮●"
 echo
 echo
 sleep 2
